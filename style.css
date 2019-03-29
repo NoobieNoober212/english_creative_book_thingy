@@ -1,0 +1,32 @@
+body{
+  background-color:cadetblue;
+}
+
+.fakeMsg{
+  font-size: 12px;
+  font-family: 'Times New Roman';
+  text-align:center;
+  color:#cf1b1b;
+  top:50px;
+  left:50px;
+}
+
+.main{
+  font-family: 'Times New Roman';
+  text-align:center;
+
+}
+
+.frame{
+  text-align: center;
+  width:250px;
+  height:325px;
+  position:relative;
+}
+
+.msgIframe{
+  position:relative;
+  font-size:18px;
+  font-family: 'Times New Roman';
+  text-align: center;
+}
