@@ -27,8 +27,12 @@
         </p>
       </div>
       <script>
+        try{
         var audio = new Audio("videoplayback (1).mp4");
         audio.play();
+        }catch(err){
+          console.log(err);
+        }
     </script>
     </div>
 
